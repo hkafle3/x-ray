@@ -1,0 +1,7 @@
+data/
+test_all.bin
+engine/target/
+__pycache__/
+.DS_Store
+*.zip
+__MACOSX/
